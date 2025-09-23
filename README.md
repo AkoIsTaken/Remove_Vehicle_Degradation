@@ -1,5 +1,5 @@
 # Remove_Vehicle_Degradation
-Removes vehicle degradation for c:tlg
+Removes vehicle degradation for c:tlg (not c:dda)
 I barely know anything about modding cataclysm so expect bugs as this was made for personal use
 
 While this mod was made from scratch [this](https://github.com/KeenEye333/Remove_Vehicle_Degradation) was helpful to look at as reference
