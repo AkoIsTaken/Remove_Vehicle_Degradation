@@ -1,0 +1,83 @@
+[
+  {
+    "type": "MAGAZINE",
+    "id": "battery_car",
+    "name": {
+      "str": "car battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_car"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "battery_motorbike",
+    "name": {
+      "str": "motorbike battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_motorbike"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "battery_motorbike_small",
+    "name": {
+      "str": "small motorbike battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "battery_motorbike_small"
+  },
+  {
+    "type": "GENERIC",
+    "id": "it_battery_mount",
+    "name": {
+      "str": "storage battery case"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "it_battery_mount"
+  },
+  {
+    "type": "GENERIC",
+    "id": "it_handheld_battery_mount",
+    "name": {
+      "str": "tool battery mount"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "it_handheld_battery_mount"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "large_storage_battery",
+    "name": {
+      "str": "very large storage battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "large_storage_battery"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "medium_storage_battery",
+    "name": {
+      "str": "medium storage battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "medium_storage_battery"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "small_storage_battery",
+    "name": {
+      "str": "small storage battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "small_storage_battery"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "storage_battery",
+    "name": {
+      "str": "large storage battery"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "storage_battery"
+  }
+]

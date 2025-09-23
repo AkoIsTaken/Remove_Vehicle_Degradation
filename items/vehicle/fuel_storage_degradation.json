@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MAGAZINE",
+    "id": "fuel_bunker",
+    "name": {
+      "str": "fuel bunker"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "fuel_bunker"
+  }
+]

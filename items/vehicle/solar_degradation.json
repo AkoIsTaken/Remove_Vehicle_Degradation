@@ -1,0 +1,110 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "solar_panel",
+    "name": {
+      "str": "solar panel"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "solar_panel"
+  },
+  {
+    "type": "GENERIC",
+    "id": "ground_solar_panel",
+    "name": {
+      "str": "solar panel array"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "ground_solar_panel"
+  },
+  {
+    "type": "GENERIC",
+    "id": "folding_solar_panel",
+    "name": {
+      "str": "folding solar panel"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "folding_solar_panel"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "folding_solar_panel_deployed",
+    "name": {
+      "str": "deployed folding solar panel"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "folding_solar_panel_deployed"
+  },
+  {
+    "type": "GENERIC",
+    "id": "folding_solar_panel_v2",
+    "name": {
+      "str": "solar suitcase"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "folding_solar_panel_v2"
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "folding_solar_panel_v2_deployed",
+    "name": {
+      "str": "deployed solar suitcase"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "folding_solar_panel_v2_deployed"
+  },
+  {
+    "type": "GENERIC",
+    "id": "reinforced_solar_panel",
+    "name": {
+      "str": "reinforced solar panel"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "reinforced_solar_panel"
+  },
+  {
+    "type": "GENERIC",
+    "id": "solar_panel_v2",
+    "name": {
+      "str": "advanced solar panel"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "solar_panel_v2"
+  },
+  {
+    "type": "GENERIC",
+    "id": "ground_solar_panel_v2",
+    "name": {
+      "str": "advanced solar panel array"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "ground_solar_panel_v2"
+  },
+  {
+    "type": "GENERIC",
+    "id": "reinforced_solar_panel_v2",
+    "name": {
+      "str": "advanced reinforced solar panel"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "reinforced_solar_panel_v2"
+  },
+  {
+    "type": "GENERIC",
+    "id": "solar_cell",
+    "name": {
+      "str": "solar cell"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "solar_cell"
+  },
+  {
+    "type": "GENERIC",
+    "id": "solar_cell_v2",
+    "name": {
+      "str": "advanced solar cell"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "solar_cell_v2"
+  }
+]

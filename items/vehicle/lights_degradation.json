@@ -1,0 +1,83 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "car_headlight",
+    "name": {
+      "str": "car headlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_headlight"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motorcycle_headlight",
+    "name": {
+      "str": "motorcycle headlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motorcycle_headlight"
+  },
+  {
+    "type": "GENERIC",
+    "id": "car_wide_headlight",
+    "name": {
+      "str": "wide-angle car headlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "car_wide_headlight"
+  },
+  {
+    "type": "GENERIC",
+    "id": "headlight_reinforced",
+    "name": {
+      "str": "reinforced headlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "headlight_reinforced"
+  },
+  {
+    "type": "GENERIC",
+    "id": "wide_headlight_reinforced",
+    "name": {
+      "str": "reinforced wide-angle headlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "wide_headlight_reinforced"
+  },
+  {
+    "type": "GENERIC",
+    "id": "light_emergency_red",
+    "name": {
+      "str": "emergency vehicle light (red)"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "light_emergency_red"
+  },
+  {
+    "type": "GENERIC",
+    "id": "light_emergency_blue",
+    "name": {
+      "str": "emergency vehicle light (blue)"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "light_emergency_blue"
+  },
+  {
+    "type": "GENERIC",
+    "id": "floodlight",
+    "name": {
+      "str": "floodlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "floodlight"
+  },
+  {
+    "type": "GENERIC",
+    "id": "directed_floodlight",
+    "name": {
+      "str": "directed floodlight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "directed_floodlight"
+  }
+]

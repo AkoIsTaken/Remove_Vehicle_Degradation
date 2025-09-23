@@ -1,0 +1,29 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "forgerig",
+    "name": {
+      "str": "vehicle forge rig"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "forgerig"
+  },
+  {
+    "type": "GENERIC",
+    "id": "kilnrig",
+    "name": {
+      "str": "vehicle kiln"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "kilnrig"
+  },
+  {
+    "type": "GENERIC",
+    "id": "weldkit",
+    "name": {
+      "str": "vehicle high-temperature welding kit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "weldkit"
+  }
+]

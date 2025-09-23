@@ -1,0 +1,38 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "alternator_car",
+    "name": {
+      "str": "car alternator"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "alternator_car"
+  },
+  {
+    "type": "GENERIC",
+    "id": "alternator_motorbike",
+    "name": {
+      "str": "motorbike alternator"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "alternator_motorbike"
+  },
+  {
+    "type": "GENERIC",
+    "id": "alternator_bicycle",
+    "name": {
+      "str": "bicycle alternator"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "alternator_bicycle"
+  },
+  {
+    "type": "GENERIC",
+    "id": "alternator_truck",
+    "name": {
+      "str": "truck alternator"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "alternator_truck"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "heavy_duty_military_rotor",
+    "name": {
+      "str": "heavy-duty military rotors"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "heavy_duty_military_rotor"
+  },
+  {
+    "type": "GENERIC",
+    "id": "small_helicopter_rotor",
+    "name": {
+      "str": "small civilian helicopter rotors"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "small_helicopter_rotor"
+  }
+]

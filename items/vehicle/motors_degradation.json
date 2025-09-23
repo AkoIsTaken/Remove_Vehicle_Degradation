@@ -1,0 +1,65 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "motor",
+    "name": {
+      "str": "electric motor"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motor_enhanced",
+    "name": {
+      "str": "enhanced electric motor"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor_enhanced"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motor_super",
+    "name": {
+      "str": "super electric motor"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor_super"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motor_large",
+    "name": {
+      "str": "large electric motor"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor_large"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motor_small",
+    "name": {
+      "str": "small electric motor"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor_small"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motor_tiny",
+    "name": {
+      "str": "tiny electric motor"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor_tiny"
+  },
+  {
+    "type": "GENERIC",
+    "id": "motor_train1300",
+    "name": {
+      "str": "1,300 HP electric train engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "motor_train1300"
+  }
+]

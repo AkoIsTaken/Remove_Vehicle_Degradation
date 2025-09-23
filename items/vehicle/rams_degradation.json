@@ -1,0 +1,11 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "tearer",
+    "name": {
+      "str": "shredder"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "tearer"
+  }
+]

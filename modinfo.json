@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "remove_vehicle_degradation",
+    "name": "Remove Vehicle Degradation",
+    "authors": [ "AKO, with work partly 'stolen' from KeenEye333" ],
+    "description": "Removes the repair limit of every vehicle parts in the game",
+    "version": "<color_green>v1.2, made for TLG 1.0 2025-09-23-1048</color>",
+    "category": "rebalance",
+    "dependencies": [ "tlg" ]
+  }
+]

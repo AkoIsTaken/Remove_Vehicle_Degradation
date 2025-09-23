@@ -1,0 +1,119 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "camera_control",
+    "name": {
+      "str": "camera display"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "camera_control"
+  },
+  {
+    "type": "GENERIC",
+    "id": "omnicamera",
+    "name": {
+      "str": "security camera"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "omnicamera"
+  },
+  {
+    "type": "GENERIC",
+    "id": "omnicamera_reinforced",
+    "name": {
+      "str": "reinforced security camera"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "omnicamera_reinforced"
+  },
+  {
+    "type": "GENERIC",
+    "id": "vehicle_controls",
+    "name": {
+      "str": "vehicle controls"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "vehicle_controls"
+  },
+  {
+    "type": "GENERIC",
+    "id": "reins_tackle",
+    "name": {
+      "str": "rein and tackle"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "reins_tackle"
+  },
+  {
+    "type": "GENERIC",
+    "id": "vehicle_dashboard",
+    "name": {
+      "str": "dashboard"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "vehicle_dashboard"
+  },
+  {
+    "type": "GENERIC",
+    "id": "electronics_controls",
+    "name": {
+      "str": "electronics control unit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "electronics_controls"
+  },
+  {
+    "type": "GENERIC",
+    "id": "drive_by_wire_controls",
+    "name": {
+      "str": "drive by wire controls"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "drive_by_wire_controls"
+  },
+  {
+    "type": "GENERIC",
+    "id": "robot_controls",
+    "name": {
+      "str": "robot driving unit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "robot_controls"
+  },
+  {
+    "type": "GENERIC",
+    "id": "turret_controls",
+    "name": {
+      "str": "turret control unit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "turret_controls"
+  },
+  {
+    "type": "GENERIC",
+    "id": "hand_controls",
+    "name": {
+      "str": "hand controls"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "hand_controls"
+  },
+  {
+    "type": "GENERIC",
+    "id": "pedal_extenders",
+    "name": {
+      "str": "pedal extenders"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "pedal_extenders"
+  },
+  {
+    "type": "GENERIC",
+    "id": "pedal_extenders_makeshift",
+    "name": {
+      "str": "makeshift pedal extenders"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "pedal_extenders_makeshift"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "TOOL",
+    "id": "horn_bicycle",
+    "name": { "str": "bicycle horn" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "horn_bicycle"
+  },
+  {
+    "type": "TOOL",
+    "id": "horn_big",
+    "name": { "str": "truck horn" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "horn_big"
+  },
+  {
+    "type": "TOOL",
+    "id": "horn_car",
+    "name": { "str": "car horn" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "horn_car"
+  }
+]

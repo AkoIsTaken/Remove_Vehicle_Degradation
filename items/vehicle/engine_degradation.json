@@ -1,0 +1,254 @@
+[
+  {
+    "type": "ENGINE",
+    "id": "1cyl_combustion",
+    "name": {
+      "str": "0.05 L 1-cylinder engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "1cyl_combustion"
+  },
+  {
+    "type": "ENGINE",
+    "id": "1cyl_combustion_large",
+    "name": {
+      "str": "0.2 L large 1-cylinder engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "1cyl_combustion_large"
+  },
+  {
+    "type": "ENGINE",
+    "id": "1cyl_combustion_med",
+    "name": {
+      "str": "0.2 L medium 1-cylinder engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "1cyl_combustion_med"
+  },
+  {
+    "type": "ENGINE",
+    "id": "engine_1cyl_diesel_large",
+    "name": {
+      "str": "0.2 L large 1-cylinder diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "engine_1cyl_diesel_large"
+  },
+  {
+    "type": "ENGINE",
+    "id": "1cyl_combustion_small",
+    "name": {
+      "str": "0.02 L small 1-cylinder engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "1cyl_combustion_small"
+  },
+  {
+    "type": "ENGINE",
+    "id": "aero_engine_light",
+    "name": {
+      "str": "5.24 L light aero-engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "aero_engine_light"
+  },
+  {
+    "type": "ENGINE",
+    "id": "i4_combustion",
+    "name": {
+      "str": "1.6 L I4 engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "i4_combustion"
+  },
+  {
+    "type": "ENGINE",
+    "id": "i4_diesel",
+    "name": {
+      "str": "1.6 L I4 diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "i4_diesel"
+  },
+  {
+    "type": "ENGINE",
+    "id": "i1_diesel",
+    "name": {
+      "str": "0.5 L I1 diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "i1_diesel"
+  },
+  {
+    "type": "ENGINE",
+    "id": "i6_diesel",
+    "name": {
+      "str": "6 L I6 diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "i6_diesel"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v2_combustion",
+    "name": {
+      "str": "0.6 L V2 engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v2_combustion"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v6_combustion",
+    "name": {
+      "str": "2.8 L V6 engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v6_combustion"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v6_diesel",
+    "name": {
+      "str": "2.8 L V6 diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v6_diesel"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v8_combustion",
+    "name": {
+      "str": "4.5 L V8 engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v8_combustion"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v8_diesel",
+    "name": {
+      "str": "4.5 L V8 diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v8_diesel"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v12_combustion",
+    "name": {
+      "str": "7 L V12 engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v12_combustion"
+  },
+  {
+    "type": "ENGINE",
+    "id": "v12_diesel",
+    "name": {
+      "str": "7 L V12 diesel engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "v12_diesel"
+  },
+  {
+    "type": "ENGINE",
+    "id": "steam_watts_small",
+    "name": {
+      "str": "makeshift steam engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "steam_watts_small"
+  },
+  {
+    "type": "ENGINE",
+    "id": "steam_triple_small",
+    "name": {
+      "str": "small steam engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "steam_triple_small"
+  },
+  {
+    "type": "ENGINE",
+    "id": "steam_triple_medium",
+    "name": {
+      "str": "medium steam engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "steam_triple_medium"
+  },
+  {
+    "type": "GENERIC",
+    "id": "engine_block_massive",
+    "name": {
+      "str": "massive engine block"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "engine_block_massive"
+  },
+  {
+    "type": "GENERIC",
+    "id": "engine_block_large",
+    "name": {
+      "str": "large engine block"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "engine_block_large"
+  },
+  {
+    "type": "GENERIC",
+    "id": "engine_block_medium",
+    "name": {
+      "str": "medium engine block"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "engine_block_medium"
+  },
+  {
+    "type": "GENERIC",
+    "id": "engine_block_small",
+    "name": {
+      "str": "small engine block"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "engine_block_small"
+  },
+  {
+    "type": "GENERIC",
+    "id": "engine_block_tiny",
+    "name": {
+      "str": "tiny engine block"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "engine_block_tiny"
+  },
+  {
+    "type": "ENGINE",
+    "id": "small_turbine_engine",
+    "name": {
+      "str": "25 L 650 HP gas turbine engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "small_turbine_engine"
+  },
+  {
+    "type": "ENGINE",
+    "id": "medium_turbine_engine",
+    "name": {
+      "str": "38 L 1,900 HP gas turbine engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "medium_turbine_engine"
+  },
+  {
+    "type": "ENGINE",
+    "id": "large_turbine_engine",
+    "name": {
+      "str": "119.5 L 6,000 HP gas turbine engine"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "large_turbine_engine"
+  }
+]

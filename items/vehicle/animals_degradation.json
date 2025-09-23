@@ -1,0 +1,20 @@
+[
+  {
+    "type": "WHEEL",
+    "id": "yoke_harness",
+    "name": {
+      "str": "yoke and harness"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "yoke_harness"
+  },
+  {
+    "type": "WHEEL",
+    "id": "yoke_harness_heavyduty",
+    "name": {
+      "str": "reinforced yoke and harness"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "yoke_harness_heavyduty"
+  }
+]

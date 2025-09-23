@@ -1,0 +1,83 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "boat_board",
+    "name": {
+      "str": "wood boat hull"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "boat_board"
+  },
+  {
+    "type": "GENERIC",
+    "id": "raft_board",
+    "name": {
+      "str": "raft boat hull"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "raft_board"
+  },
+  {
+    "type": "GENERIC",
+    "id": "plastic_boat_hull",
+    "name": {
+      "str": "plastic boat hull"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "plastic_boat_hull"
+  },
+  {
+    "type": "GENERIC",
+    "id": "carbonfiber_boat_hull",
+    "name": {
+      "str": "carbon fiber boat hull"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "carbonfiber_boat_hull"
+  },
+  {
+    "type": "GENERIC",
+    "id": "hand_paddles",
+    "name": {
+      "str_sp": "oars"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "hand_paddles"
+  },
+  {
+    "type": "GENERIC",
+    "id": "sail",
+    "name": {
+      "str": "sail"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "sail"
+  },
+  {
+    "type": "GENERIC",
+    "id": "inflatable_section",
+    "name": {
+      "str_sp": "inflatable section"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "inflatable_section"
+  },
+  {
+    "type": "GENERIC",
+    "id": "inflatable_airbag",
+    "name": {
+      "str_sp": "inflatable airbag"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "inflatable_airbag"
+  },
+  {
+    "type": "GENERIC",
+    "id": "aluminum_boat_hull",
+    "name": {
+      "str": "aluminum boat hull"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "aluminum_boat_hull"
+  }
+]

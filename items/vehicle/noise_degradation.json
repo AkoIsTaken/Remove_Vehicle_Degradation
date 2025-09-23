@@ -1,0 +1,38 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "muffler",
+    "name": {
+      "str": "muffler"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "muffler"
+  },
+  {
+    "type": "GENERIC",
+    "id": "beeper",
+    "name": {
+      "str": "back-up beeper"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "beeper"
+  },
+  {
+    "type": "GENERIC",
+    "id": "stereo",
+    "name": {
+      "str": "stereo system"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "stereo"
+  },
+  {
+    "type": "GENERIC",
+    "id": "chimes",
+    "name": {
+      "str_sp": "chime loudspeakers"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "chimes"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "sheet_metal",
+    "name": {
+      "str_sp": "sheet metal"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "sheet_metal"
+  },
+  {
+    "type": "GENERIC",
+    "id": "wood_plate",
+    "name": {
+      "str": "wooden armor kit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "wood_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "steel_plate",
+    "name": {
+      "str_sp": "steel plating"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "steel_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "alloy_plate",
+    "name": {
+      "str_sp": "superalloy plating"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "alloy_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "alloy_sheet",
+    "name": {
+      "str": "superalloy sheet"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "alloy_sheet"
+  },
+  {
+    "type": "GENERIC",
+    "id": "spiked_plate",
+    "name": {
+      "str_sp": "spiked plating"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "spiked_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "hard_plate",
+    "name": {
+      "str": "hard plating"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "hard_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "mil_plate",
+    "name": {
+      "str": "military composite plating"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "mil_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "chitin_plate",
+    "name": {
+      "str": "chitin armor kit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "chitin_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "acidchitin_plate",
+    "name": {
+      "str": "biosilicified chitin armor kit"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "acidchitin_plate"
+  },
+  {
+    "type": "GENERIC",
+    "id": "counterweight",
+    "name": {
+      "str": "counterweight"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "counterweight"
+  }
+]

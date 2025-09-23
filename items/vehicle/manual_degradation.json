@@ -1,0 +1,20 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "hand_rims",
+    "name": {
+      "str": "set of hand rims"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "hand_rims"
+  },
+  {
+    "type": "GENERIC",
+    "id": "foot_crank",
+    "name": {
+      "str": "foot crank"
+    },
+    "degradation_multiplier": 0.0,
+    "copy-from": "foot_crank"
+  }
+]
