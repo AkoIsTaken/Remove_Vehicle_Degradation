@@ -1,24 +1,5 @@
 [
   {
-    "type": "TOOL",
-    "id": "black_box",
-    "name": {
-      "str": "military black box",
-      "str_pl": "military black boxes"
-    },
-    "degradation_multiplier": 0.0,
-    "copy-from": "black_box"
-  },
-  {
-    "type": "TOOL",
-    "id": "minireactor",
-    "name": {
-      "str": "minireactor"
-    },
-    "degradation_multiplier": 0.0,
-    "copy-from": "minireactor"
-  },
-  {
     "type": "GENERIC",
     "id": "mountable_cooler",
     "name": {
