@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_scoop_item",
     "name": {
       "str": "vehicle scoop"
@@ -9,7 +9,7 @@
     "copy-from": "v_scoop_item"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_planter_item",
     "name": {
       "str": "seed drill"
@@ -18,7 +18,7 @@
     "copy-from": "v_planter_item"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_reaper_item",
     "name": {
       "str": "reaper"
@@ -27,7 +27,7 @@
     "copy-from": "v_reaper_item"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_reaper_item_advanced",
     "name": {
       "str": "advanced reaper"
@@ -36,7 +36,7 @@
     "copy-from": "v_reaper_item_advanced"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_planter_item_advanced",
     "name": {
       "str": "advanced seed drill"
@@ -45,7 +45,7 @@
     "copy-from": "v_planter_item_advanced"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_plow_item",
     "name": {
       "str": "plow"

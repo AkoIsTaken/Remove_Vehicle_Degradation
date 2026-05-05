@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "heavy_duty_military_rotor",
     "name": {
       "str": "heavy-duty military rotors"
@@ -9,7 +9,7 @@
     "copy-from": "heavy_duty_military_rotor"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "small_helicopter_rotor",
     "name": {
       "str": "small civilian helicopter rotors"

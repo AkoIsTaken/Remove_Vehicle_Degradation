@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "alternator_car",
     "name": {
       "str": "car alternator"
@@ -9,7 +9,7 @@
     "copy-from": "alternator_car"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "alternator_motorbike",
     "name": {
       "str": "motorbike alternator"
@@ -18,7 +18,7 @@
     "copy-from": "alternator_motorbike"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "alternator_bicycle",
     "name": {
       "str": "bicycle alternator"
@@ -27,7 +27,7 @@
     "copy-from": "alternator_bicycle"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "alternator_truck",
     "name": {
       "str": "truck alternator"

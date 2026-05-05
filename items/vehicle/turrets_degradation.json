@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "turret_mount",
     "name": {
       "str": "turret mount"

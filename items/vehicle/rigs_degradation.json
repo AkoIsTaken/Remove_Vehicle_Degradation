@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "forgerig",
     "name": {
       "str": "vehicle forge rig"
@@ -9,7 +9,7 @@
     "copy-from": "forgerig"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "kilnrig",
     "name": {
       "str": "vehicle kiln"
@@ -18,7 +18,7 @@
     "copy-from": "kilnrig"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "weldkit",
     "name": {
       "str": "vehicle high-temperature welding kit"

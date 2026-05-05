@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "camera_control",
     "name": {
       "str": "camera display"
@@ -9,7 +9,7 @@
     "copy-from": "camera_control"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "omnicamera",
     "name": {
       "str": "security camera"
@@ -18,7 +18,7 @@
     "copy-from": "omnicamera"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "omnicamera_reinforced",
     "name": {
       "str": "reinforced security camera"
@@ -27,7 +27,7 @@
     "copy-from": "omnicamera_reinforced"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "vehicle_controls",
     "name": {
       "str": "vehicle controls"
@@ -36,7 +36,7 @@
     "copy-from": "vehicle_controls"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "reins_tackle",
     "name": {
       "str": "rein and tackle"
@@ -45,7 +45,7 @@
     "copy-from": "reins_tackle"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "vehicle_dashboard",
     "name": {
       "str": "dashboard"
@@ -54,7 +54,7 @@
     "copy-from": "vehicle_dashboard"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "electronics_controls",
     "name": {
       "str": "electronics control unit"
@@ -63,7 +63,7 @@
     "copy-from": "electronics_controls"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "drive_by_wire_controls",
     "name": {
       "str": "drive by wire controls"
@@ -72,7 +72,7 @@
     "copy-from": "drive_by_wire_controls"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "robot_controls",
     "name": {
       "str": "robot driving unit"
@@ -81,7 +81,7 @@
     "copy-from": "robot_controls"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "turret_controls",
     "name": {
       "str": "turret control unit"
@@ -90,7 +90,7 @@
     "copy-from": "turret_controls"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "hand_controls",
     "name": {
       "str": "hand controls"
@@ -99,7 +99,7 @@
     "copy-from": "hand_controls"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "pedal_extenders",
     "name": {
       "str": "pedal extenders"
@@ -108,7 +108,7 @@
     "copy-from": "pedal_extenders"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "pedal_extenders_makeshift",
     "name": {
       "str": "makeshift pedal extenders"

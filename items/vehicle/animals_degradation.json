@@ -1,6 +1,6 @@
 [
   {
-    "type": "WHEEL",
+    "type": "ITEM",
     "id": "yoke_harness",
     "name": {
       "str": "yoke and harness"
@@ -9,7 +9,7 @@
     "copy-from": "yoke_harness"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
     "id": "yoke_harness_heavyduty",
     "name": {
       "str": "reinforced yoke and harness"

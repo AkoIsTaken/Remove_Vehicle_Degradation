@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wind_turbine",
     "name": {
       "str": "wind turbine"
@@ -9,7 +9,7 @@
     "copy-from": "wind_turbine"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "xl_wind_turbine",
     "name": {
       "str": "large wind turbine"
@@ -18,7 +18,7 @@
     "copy-from": "xl_wind_turbine"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "water_wheel",
     "name": {
       "str": "water wheel"
@@ -27,7 +27,7 @@
     "copy-from": "water_wheel"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "xl_water_wheel",
     "name": {
       "str": "large water wheel"

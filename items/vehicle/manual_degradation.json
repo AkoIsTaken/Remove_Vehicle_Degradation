@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "hand_rims",
     "name": {
       "str": "set of hand rims"
@@ -9,7 +9,7 @@
     "copy-from": "hand_rims"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "foot_crank",
     "name": {
       "str": "foot crank"

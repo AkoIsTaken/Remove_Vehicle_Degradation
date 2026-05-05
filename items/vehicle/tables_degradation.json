@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "v_table",
     "name": {
       "str": "fancy table"
@@ -9,7 +9,7 @@
     "copy-from": "v_table"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "w_table",
     "name": {
       "str": "wooden table"
@@ -18,7 +18,7 @@
     "copy-from": "w_table"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "workbench",
     "name": {
       "str": "workbench (folded)",

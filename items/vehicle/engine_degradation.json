@@ -1,6 +1,7 @@
 [
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "1cyl_combustion",
     "name": {
       "str": "0.05 L 1-cylinder engine"
@@ -9,7 +10,8 @@
     "copy-from": "1cyl_combustion"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "1cyl_combustion_large",
     "name": {
       "str": "0.2 L large 1-cylinder engine"
@@ -18,7 +20,8 @@
     "copy-from": "1cyl_combustion_large"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "1cyl_combustion_med",
     "name": {
       "str": "0.2 L medium 1-cylinder engine"
@@ -27,7 +30,8 @@
     "copy-from": "1cyl_combustion_med"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "engine_1cyl_diesel_large",
     "name": {
       "str": "0.2 L large 1-cylinder diesel engine"
@@ -36,7 +40,8 @@
     "copy-from": "engine_1cyl_diesel_large"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "1cyl_combustion_small",
     "name": {
       "str": "0.02 L small 1-cylinder engine"
@@ -45,7 +50,8 @@
     "copy-from": "1cyl_combustion_small"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "aero_engine_light",
     "name": {
       "str": "5.24 L light aero-engine"
@@ -54,7 +60,8 @@
     "copy-from": "aero_engine_light"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "i4_combustion",
     "name": {
       "str": "1.6 L I4 engine"
@@ -63,7 +70,8 @@
     "copy-from": "i4_combustion"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "i4_diesel",
     "name": {
       "str": "1.6 L I4 diesel engine"
@@ -72,7 +80,8 @@
     "copy-from": "i4_diesel"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "i1_diesel",
     "name": {
       "str": "0.5 L I1 diesel engine"
@@ -81,7 +90,8 @@
     "copy-from": "i1_diesel"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "i6_diesel",
     "name": {
       "str": "6 L I6 diesel engine"
@@ -90,7 +100,8 @@
     "copy-from": "i6_diesel"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v2_combustion",
     "name": {
       "str": "0.6 L V2 engine"
@@ -99,7 +110,8 @@
     "copy-from": "v2_combustion"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v6_combustion",
     "name": {
       "str": "2.8 L V6 engine"
@@ -108,7 +120,8 @@
     "copy-from": "v6_combustion"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v6_diesel",
     "name": {
       "str": "2.8 L V6 diesel engine"
@@ -117,7 +130,8 @@
     "copy-from": "v6_diesel"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v8_combustion",
     "name": {
       "str": "4.5 L V8 engine"
@@ -126,7 +140,8 @@
     "copy-from": "v8_combustion"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v8_diesel",
     "name": {
       "str": "4.5 L V8 diesel engine"
@@ -135,7 +150,8 @@
     "copy-from": "v8_diesel"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v12_combustion",
     "name": {
       "str": "7 L V12 engine"
@@ -144,7 +160,8 @@
     "copy-from": "v12_combustion"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "v12_diesel",
     "name": {
       "str": "7 L V12 diesel engine"
@@ -153,7 +170,8 @@
     "copy-from": "v12_diesel"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "steam_watts_small",
     "name": {
       "str": "makeshift steam engine"
@@ -162,7 +180,8 @@
     "copy-from": "steam_watts_small"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "steam_triple_small",
     "name": {
       "str": "small steam engine"
@@ -171,7 +190,8 @@
     "copy-from": "steam_triple_small"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "steam_triple_medium",
     "name": {
       "str": "medium steam engine"
@@ -180,7 +200,7 @@
     "copy-from": "steam_triple_medium"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "engine_block_massive",
     "name": {
       "str": "massive engine block"
@@ -189,7 +209,7 @@
     "copy-from": "engine_block_massive"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "engine_block_large",
     "name": {
       "str": "large engine block"
@@ -198,7 +218,7 @@
     "copy-from": "engine_block_large"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "engine_block_medium",
     "name": {
       "str": "medium engine block"
@@ -207,7 +227,7 @@
     "copy-from": "engine_block_medium"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "engine_block_small",
     "name": {
       "str": "small engine block"
@@ -216,7 +236,7 @@
     "copy-from": "engine_block_small"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "engine_block_tiny",
     "name": {
       "str": "tiny engine block"
@@ -225,7 +245,8 @@
     "copy-from": "engine_block_tiny"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "small_turbine_engine",
     "name": {
       "str": "25 L 650 HP gas turbine engine"
@@ -234,7 +255,8 @@
     "copy-from": "small_turbine_engine"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "medium_turbine_engine",
     "name": {
       "str": "38 L 1,900 HP gas turbine engine"
@@ -243,7 +265,8 @@
     "copy-from": "medium_turbine_engine"
   },
   {
-    "type": "ENGINE",
+    "type": "ITEM",
+    "subtypes": [ "ENGINE" ],
     "id": "large_turbine_engine",
     "name": {
       "str": "119.5 L 6,000 HP gas turbine engine"

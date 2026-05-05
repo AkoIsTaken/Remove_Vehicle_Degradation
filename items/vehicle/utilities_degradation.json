@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "mountable_cooler",
     "name": {
       "str": "vehicle cooler"
@@ -9,7 +9,7 @@
     "copy-from": "mountable_cooler"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "integrated_cooler",
     "name": {
       "str": "small integrated cooler"
@@ -18,7 +18,7 @@
     "copy-from": "integrated_cooler"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "mountable_heater",
     "name": {
       "str": "vehicle heater"
@@ -27,7 +27,7 @@
     "copy-from": "mountable_heater"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "mountable_heater_small",
     "name": {
       "str": "small vehicle heater"
@@ -36,7 +36,7 @@
     "copy-from": "mountable_heater_small"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "towel_hanger",
     "name": {
       "str": "towel hanger"
@@ -45,7 +45,7 @@
     "copy-from": "towel_hanger"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "recharge_station",
     "name": {
       "str": "recharging station"
@@ -54,7 +54,7 @@
     "copy-from": "recharge_station"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "battery_charger",
     "name": {
       "str": "battery charger"
@@ -63,7 +63,7 @@
     "copy-from": "battery_charger"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "washing_machine",
     "name": {
       "str": "washing machine"
@@ -72,7 +72,7 @@
     "copy-from": "washing_machine"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "programmable_autopilot",
     "name": {
       "str": "programmable autopilot"
@@ -81,7 +81,7 @@
     "copy-from": "programmable_autopilot"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "vh_autoclave",
     "name": {
       "str": "mountable autoclave"
@@ -90,7 +90,7 @@
     "copy-from": "vh_autoclave"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "dishwasher",
     "name": {
       "str": "portable dishwasher"
@@ -99,7 +99,7 @@
     "copy-from": "dishwasher"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "fridgetank",
     "name": {
       "str": "refrigerated tank (60 L)",
@@ -109,7 +109,7 @@
     "copy-from": "fridgetank"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "fridgetank_large",
     "name": {
       "str": "refrigerated tank (100 L)",
@@ -119,7 +119,7 @@
     "copy-from": "fridgetank_large"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "heattank",
     "name": {
       "str": "heated tank"
@@ -128,7 +128,7 @@
     "copy-from": "heattank"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "water_faucet",
     "name": {
       "str": "water faucet"
@@ -137,7 +137,8 @@
     "copy-from": "water_faucet"
   },
   {
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "id": "oil_press_electric",
     "name": {
       "str": "electric oil press",

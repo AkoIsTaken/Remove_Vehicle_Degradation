@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "solar_panel",
     "name": {
       "str": "solar panel"
@@ -9,7 +9,7 @@
     "copy-from": "solar_panel"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "ground_solar_panel",
     "name": {
       "str": "solar panel array"
@@ -18,7 +18,7 @@
     "copy-from": "ground_solar_panel"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "folding_solar_panel",
     "name": {
       "str": "folding solar panel"
@@ -27,7 +27,8 @@
     "copy-from": "folding_solar_panel"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "folding_solar_panel_deployed",
     "name": {
       "str": "deployed folding solar panel"
@@ -36,7 +37,7 @@
     "copy-from": "folding_solar_panel_deployed"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "folding_solar_panel_v2",
     "name": {
       "str": "solar suitcase"
@@ -45,7 +46,8 @@
     "copy-from": "folding_solar_panel_v2"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "folding_solar_panel_v2_deployed",
     "name": {
       "str": "deployed solar suitcase"
@@ -54,7 +56,7 @@
     "copy-from": "folding_solar_panel_v2_deployed"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "reinforced_solar_panel",
     "name": {
       "str": "reinforced solar panel"
@@ -63,7 +65,7 @@
     "copy-from": "reinforced_solar_panel"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "solar_panel_v2",
     "name": {
       "str": "advanced solar panel"
@@ -72,7 +74,7 @@
     "copy-from": "solar_panel_v2"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "ground_solar_panel_v2",
     "name": {
       "str": "advanced solar panel array"
@@ -81,7 +83,7 @@
     "copy-from": "ground_solar_panel_v2"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "reinforced_solar_panel_v2",
     "name": {
       "str": "advanced reinforced solar panel"
@@ -90,7 +92,7 @@
     "copy-from": "reinforced_solar_panel_v2"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "solar_cell",
     "name": {
       "str": "solar cell"
@@ -99,7 +101,7 @@
     "copy-from": "solar_cell"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "solar_cell_v2",
     "name": {
       "str": "advanced solar cell"

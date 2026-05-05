@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_mount_wood",
     "name": {
       "str": "wooden wheel mount"
@@ -9,7 +9,7 @@
     "copy-from": "wheel_mount_wood"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_mount_light",
     "name": {
       "str": "light wheel mount"
@@ -18,7 +18,7 @@
     "copy-from": "wheel_mount_light"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_mount_medium",
     "name": {
       "str": "medium wheel hub assembly",
@@ -28,7 +28,7 @@
     "copy-from": "wheel_mount_medium"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_mount_heavy",
     "name": {
       "str": "heavy wheel hub assembly",
@@ -38,7 +38,7 @@
     "copy-from": "wheel_mount_heavy"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_mount_skateboard",
     "name": {
       "str": "skateboard trucks",
@@ -48,7 +48,7 @@
     "copy-from": "wheel_mount_skateboard"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_rim_medium",
     "name": {
       "str": "medium steel rim"
@@ -57,7 +57,7 @@
     "copy-from": "wheel_rim_medium"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_rim_motorbike",
     "name": {
       "str": "steel motorbike rim"
@@ -66,7 +66,7 @@
     "copy-from": "wheel_rim_motorbike"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_rim_wide",
     "name": {
       "str": "wide steel rim"
@@ -75,7 +75,7 @@
     "copy-from": "wheel_rim_wide"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_rim_bicycle",
     "name": {
       "str": "bicycle rim"
@@ -84,7 +84,7 @@
     "copy-from": "wheel_rim_bicycle"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_medium",
     "name": {
       "str": "17\" car tire"
@@ -93,7 +93,7 @@
     "copy-from": "tire_medium"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_medium_slick",
     "name": {
       "str": "16\" racing tire"
@@ -102,7 +102,7 @@
     "copy-from": "tire_medium_slick"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_motorbike",
     "name": {
       "str": "16\" motorbike tire"
@@ -111,7 +111,7 @@
     "copy-from": "tire_motorbike"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_motorbike_or",
     "name": {
       "str": "20\" off-road motorbike tire"
@@ -120,7 +120,7 @@
     "copy-from": "tire_motorbike_or"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_wide",
     "name": {
       "str": "24\" wide tire"
@@ -129,7 +129,7 @@
     "copy-from": "tire_wide"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_wide_or",
     "name": {
       "str": "24\" off-road wide tire"
@@ -138,7 +138,7 @@
     "copy-from": "tire_wide_or"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_bicycle",
     "name": {
       "str": "27\" bicycle tire"
@@ -147,7 +147,7 @@
     "copy-from": "tire_bicycle"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "tire_bicycle_or",
     "name": {
       "str": "27\" off-road bicycle tire"
@@ -156,7 +156,7 @@
     "copy-from": "tire_bicycle_or"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel",
     "name": {
       "str": "deflated 17\" wheel"
@@ -165,7 +165,7 @@
     "copy-from": "deflated_wheel"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_slick",
     "name": {
       "str": "deflated 16\" racing wheel"
@@ -174,7 +174,7 @@
     "copy-from": "deflated_wheel_slick"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_motorbike",
     "name": {
       "str": "deflated 16\" motorbike wheel"
@@ -183,7 +183,7 @@
     "copy-from": "deflated_wheel_motorbike"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_motorbike_or",
     "name": {
       "str": "deflated 20\" off-road motorbike wheel"
@@ -192,7 +192,7 @@
     "copy-from": "deflated_wheel_motorbike_or"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_wide",
     "name": {
       "str": "deflated 24\" wide wheel"
@@ -201,7 +201,7 @@
     "copy-from": "deflated_wheel_wide"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_wide_or",
     "name": {
       "str": "deflated 24\" off-road wide wheel"
@@ -210,7 +210,7 @@
     "copy-from": "deflated_wheel_wide_or"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_bicycle",
     "name": {
       "str": "deflated 27\" bicycle wheel"
@@ -219,7 +219,7 @@
     "copy-from": "deflated_wheel_bicycle"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "deflated_wheel_bicycle_or",
     "name": {
       "str": "deflated 27\" off-road bicycle wheel"
@@ -228,7 +228,8 @@
     "copy-from": "deflated_wheel_bicycle_or"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel",
     "name": {
       "str": "wheel"
@@ -237,7 +238,8 @@
     "copy-from": "wheel"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_slick",
     "name": {
       "str": "racing wheel"
@@ -246,7 +248,8 @@
     "copy-from": "wheel_slick"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_armor",
     "name": {
       "str": "armored wheel"
@@ -255,7 +258,8 @@
     "copy-from": "wheel_armor"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_barrow",
     "name": {
       "str": "wheelbarrow wheel"
@@ -264,7 +268,8 @@
     "copy-from": "wheel_barrow"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_bicycle",
     "name": {
       "str": "bicycle wheel"
@@ -273,7 +278,8 @@
     "copy-from": "wheel_bicycle"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_bicycle_or",
     "name": {
       "str": "off-road bicycle wheel"
@@ -282,7 +288,8 @@
     "copy-from": "wheel_bicycle_or"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_small_pair",
     "name": {
       "str": "small wheels",
@@ -292,7 +299,8 @@
     "copy-from": "wheel_small_pair"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_caster",
     "name": {
       "str": "set of small casters",
@@ -302,7 +310,8 @@
     "copy-from": "wheel_caster"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_caster_large",
     "name": {
       "str": "set of medium casters",
@@ -312,7 +321,8 @@
     "copy-from": "wheel_caster_large"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_10",
     "name": {
       "str": "set of large casters",
@@ -322,7 +332,8 @@
     "copy-from": "wheel_10"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_metal",
     "name": {
       "str": "metal wheel"
@@ -331,7 +342,8 @@
     "copy-from": "wheel_metal"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_rail",
     "name": {
       "str": "rail wheel"
@@ -340,7 +352,8 @@
     "copy-from": "wheel_rail"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_rail_small_pair",
     "name": {
       "str": "small rail wheels",
@@ -350,7 +363,8 @@
     "copy-from": "wheel_rail_small_pair"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_motorbike",
     "name": {
       "str": "motorbike wheel"
@@ -359,7 +373,8 @@
     "copy-from": "wheel_motorbike"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_motorbike_or",
     "name": {
       "str": "off-road motorbike wheel"
@@ -368,7 +383,8 @@
     "copy-from": "wheel_motorbike_or"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "hd_steel_drum",
     "name": {
       "str": "large steel drum"
@@ -377,7 +393,8 @@
     "copy-from": "hd_steel_drum"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_small",
     "name": {
       "str": "small wheel"
@@ -386,7 +403,8 @@
     "copy-from": "wheel_small"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_skate",
     "name": {
       "str": "skate wheel"
@@ -395,7 +413,8 @@
     "copy-from": "wheel_skate"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_skateboard",
     "name": {
       "str": "set of skateboard wheels",
@@ -405,7 +424,8 @@
     "copy-from": "wheel_skateboard"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_tricycle",
     "name": {
       "str": "set of tricycle wheels",
@@ -415,7 +435,8 @@
     "copy-from": "wheel_tricycle"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_wheelchair",
     "name": {
       "str": "wheelchair wheels",
@@ -425,7 +446,8 @@
     "copy-from": "wheel_wheelchair"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_wide",
     "name": {
       "str": "wide wheel"
@@ -434,7 +456,8 @@
     "copy-from": "wheel_wide"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_wide_or",
     "name": {
       "str": "off-road wide wheel"
@@ -443,7 +466,8 @@
     "copy-from": "wheel_wide_or"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_wood",
     "name": {
       "str": "wooden cart wheel"
@@ -452,7 +476,8 @@
     "copy-from": "wheel_wood"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_wood_b",
     "name": {
       "str": "banded wooden cart wheel"
@@ -461,7 +486,7 @@
     "copy-from": "wheel_wood_b"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wheel_mount_concrete_mix",
     "name": {
       "str_sp": "concrete mixer wheel mounts"
@@ -470,7 +495,8 @@
     "copy-from": "wheel_mount_concrete_mix"
   },
   {
-    "type": "WHEEL",
+    "type": "ITEM",
+    "subtypes": [ "WHEEL" ],
     "id": "wheel_set_concrete_mix",
     "name": {
       "str_sp": "concrete mixer wheels"

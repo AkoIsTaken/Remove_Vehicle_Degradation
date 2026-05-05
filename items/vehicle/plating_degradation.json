@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "sheet_metal",
     "name": {
       "str_sp": "sheet metal"
@@ -9,7 +9,7 @@
     "copy-from": "sheet_metal"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "wood_plate",
     "name": {
       "str": "wooden armor kit"
@@ -18,7 +18,7 @@
     "copy-from": "wood_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "steel_plate",
     "name": {
       "str_sp": "steel plating"
@@ -27,7 +27,7 @@
     "copy-from": "steel_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "alloy_plate",
     "name": {
       "str_sp": "superalloy plating"
@@ -36,7 +36,7 @@
     "copy-from": "alloy_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "alloy_sheet",
     "name": {
       "str": "superalloy sheet"
@@ -45,7 +45,7 @@
     "copy-from": "alloy_sheet"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "spiked_plate",
     "name": {
       "str_sp": "spiked plating"
@@ -54,7 +54,7 @@
     "copy-from": "spiked_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "hard_plate",
     "name": {
       "str": "hard plating"
@@ -63,7 +63,7 @@
     "copy-from": "hard_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "mil_plate",
     "name": {
       "str": "military composite plating"
@@ -72,7 +72,7 @@
     "copy-from": "mil_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "chitin_plate",
     "name": {
       "str": "chitin armor kit"
@@ -81,7 +81,7 @@
     "copy-from": "chitin_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "acidchitin_plate",
     "name": {
       "str": "biosilicified chitin armor kit"
@@ -90,7 +90,7 @@
     "copy-from": "acidchitin_plate"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "counterweight",
     "name": {
       "str": "counterweight"

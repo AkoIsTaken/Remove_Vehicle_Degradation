@@ -1,6 +1,7 @@
 [
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "battery_car",
     "name": {
       "str": "car battery"
@@ -9,7 +10,8 @@
     "copy-from": "battery_car"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "battery_motorbike",
     "name": {
       "str": "motorbike battery"
@@ -18,7 +20,8 @@
     "copy-from": "battery_motorbike"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "battery_motorbike_small",
     "name": {
       "str": "small motorbike battery"
@@ -27,7 +30,7 @@
     "copy-from": "battery_motorbike_small"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "it_battery_mount",
     "name": {
       "str": "storage battery case"
@@ -36,7 +39,7 @@
     "copy-from": "it_battery_mount"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "it_handheld_battery_mount",
     "name": {
       "str": "tool battery mount"
@@ -45,7 +48,8 @@
     "copy-from": "it_handheld_battery_mount"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "large_storage_battery",
     "name": {
       "str": "very large storage battery"
@@ -54,7 +58,8 @@
     "copy-from": "large_storage_battery"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "medium_storage_battery",
     "name": {
       "str": "medium storage battery"
@@ -63,7 +68,8 @@
     "copy-from": "medium_storage_battery"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "small_storage_battery",
     "name": {
       "str": "small storage battery"
@@ -72,7 +78,8 @@
     "copy-from": "small_storage_battery"
   },
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "storage_battery",
     "name": {
       "str": "large storage battery"

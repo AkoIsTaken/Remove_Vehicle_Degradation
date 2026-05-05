@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "boat_board",
     "name": {
       "str": "wood boat hull"
@@ -9,7 +9,7 @@
     "copy-from": "boat_board"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "raft_board",
     "name": {
       "str": "raft boat hull"
@@ -18,7 +18,7 @@
     "copy-from": "raft_board"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "plastic_boat_hull",
     "name": {
       "str": "plastic boat hull"
@@ -27,7 +27,7 @@
     "copy-from": "plastic_boat_hull"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "carbonfiber_boat_hull",
     "name": {
       "str": "carbon fiber boat hull"
@@ -36,7 +36,7 @@
     "copy-from": "carbonfiber_boat_hull"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "hand_paddles",
     "name": {
       "str_sp": "oars"
@@ -45,7 +45,7 @@
     "copy-from": "hand_paddles"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "sail",
     "name": {
       "str": "sail"
@@ -54,7 +54,7 @@
     "copy-from": "sail"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "inflatable_section",
     "name": {
       "str_sp": "inflatable section"
@@ -63,7 +63,7 @@
     "copy-from": "inflatable_section"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "inflatable_airbag",
     "name": {
       "str_sp": "inflatable airbag"
@@ -72,7 +72,7 @@
     "copy-from": "inflatable_airbag"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "aluminum_boat_hull",
     "name": {
       "str": "aluminum boat hull"

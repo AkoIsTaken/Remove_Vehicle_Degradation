@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor",
     "name": {
       "str": "electric motor"
@@ -9,7 +9,7 @@
     "copy-from": "motor"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor_enhanced",
     "name": {
       "str": "enhanced electric motor"
@@ -18,7 +18,7 @@
     "copy-from": "motor_enhanced"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor_super",
     "name": {
       "str": "super electric motor"
@@ -27,7 +27,7 @@
     "copy-from": "motor_super"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor_large",
     "name": {
       "str": "large electric motor"
@@ -36,7 +36,7 @@
     "copy-from": "motor_large"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor_small",
     "name": {
       "str": "small electric motor"
@@ -45,7 +45,7 @@
     "copy-from": "motor_small"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor_tiny",
     "name": {
       "str": "tiny electric motor"
@@ -54,7 +54,7 @@
     "copy-from": "motor_tiny"
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "id": "motor_train1300",
     "name": {
       "str": "1,300 HP electric train engine"

@@ -1,6 +1,7 @@
 [
   {
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "id": "fuel_bunker",
     "name": {
       "str": "fuel bunker"
