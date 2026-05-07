@@ -1,0 +1,9 @@
+[
+  {
+    "type": "ITEM",
+    "id": "door_lock",
+    "name": { "str": "door lock set" },
+    "degradation_multiplier": 0.0,
+    "copy-from": "door_lock"
+  }
+]
